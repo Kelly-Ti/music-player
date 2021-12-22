@@ -9,7 +9,7 @@ function chillHop() {
       artist: 'Philanthrope, Parkbench Epiphany',
       audio: 'https://mp3.chillhop.com/serve.php/?mp3=27503',
       color: ['#BF979D', '#4F6979'],
-      id: uudi4(),
+      id: uuidv4(),
       active: true,
     },
     {
@@ -19,7 +19,7 @@ function chillHop() {
       artist: 'Makzo, Mama Aiuto',
       audio: 'https://mp3.chillhop.com/serve.php/?mp3=24767',
       color: ['#C0D8E2', '#F8C840'],
-      id: uudi4(),
+      id: uuidv4(),
       active: false,
     },
     {
@@ -29,7 +29,7 @@ function chillHop() {
       artist: 'Hanz',
       audio: 'https://mp3.chillhop.com/serve.php/?mp3=24642',
       color: ['#765964', '##483828'],
-      id: uudi4(),
+      id: uuidv4(),
       active: false,
     },
   ];
